@@ -29,9 +29,9 @@ const MohammadAman = {
 };
 ```
 
-- 🎓 **Student** pursuing Computer Science
+- 🎓 **Student** pursuing Computer Science Engineering
 - 🌱 Currently deepening my skills in **React, Next.js & Machine Learning**
-- 💡 Love turning ideas into real-world projects
+- 💡 Passionate about turning ideas into real-world projects
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it
 
 ---
@@ -87,7 +87,7 @@ const MohammadAman = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohammadAman5577/MohammadAman5577/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -100,9 +100,8 @@ const MohammadAman = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohammadAman5577-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadAman5577)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aman-a09796251/)
+[![Email](https://img.shields.io/badge/Email-mohammadaman5577@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadaman5577@gmail.com)
 
 </div>
 
