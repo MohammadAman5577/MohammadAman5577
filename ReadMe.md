@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Mohammad%20Aman&fontSize=50&fontColor=e6edf3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:900000,100:0d1117&height=200&section=header&text=Mohammad%20Aman&fontSize=50&fontColor=e6edf3&fontAlignY=40&desc=Full%20Stack%20Titan%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohammad+Aman+%F0%9F%91%8B;Full+Stack+Developer+in+the+making+%E2%9A%A1;Building+cool+things+with+code+%F0%9F%9A%80;Open+to+collaborations+%26+internships!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E23D28&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohammad+Aman+%F0%9F%91%8B;Dedicating+my+heart+to+development+%E2%9A%94%EF%B8%8F;Moving+forward+until+the+bugs+are+destroyed+%E2%9A%A1;Open+to+collaborations+%26+internships!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MohammadAman5577&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=MohammadAman5577&style=for-the-badge&color=900000&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/MohammadAman5577?style=for-the-badge&color=1f6feb&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/MohammadAman5577?style=for-the-badge&color=900000&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📜 My Vow (About Me)
 
 ```typescript
 const MohammadAman = {
   role      : "CS Student & Aspiring Full Stack Developer",
   location  : "India 🇮🇳",
-  currently : "Learning, Building & Contributing",
+  currently : "Learning, Building & Moving Forward",
   interests : ["Web Development", "Machine Learning", "Open Source"],
-  goal      : "Craft impactful software & grow with every commit",
-  available : true
+  goal      : "Achieve freedom through impactful software",
+  vow       : "Tatakae. (Keep coding.)"
 };
 ```
 
@@ -36,7 +36,7 @@ const MohammadAman = {
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ ODM Gear (Tech Stack)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,19 +75,19 @@ const MohammadAman = {
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 The Coordinate (GitHub Stats)
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohammadAman5577&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" alt="Mohammad's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAman5577&theme=github-dark-blue&hide_border=true&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&background=0d1117" alt="Mohammad's GitHub Streak" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohammadAman5577&show_icons=true&hide_border=true&title_color=e23d28&icon_color=e23d28&text_color=c9d1d9&bg_color=0d1117" alt="Mohammad's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAman5577&hide_border=true&stroke=21262d&ring=e23d28&fire=e23d28&currStreakLabel=e23d28&background=0d1117&currStreakNum=e23d28&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Mohammad's GitHub Streak" />
   <br/>
   <br/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammadAman5577&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mohammad's Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammadAman5577&layout=compact&hide_border=true&title_color=e23d28&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mohammad's Top Languages" />
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🛤️ The Paths (Contribution Graph)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohammadAman5577/MohammadAman5577/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -95,7 +95,7 @@ const MohammadAman = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Establish Connection
 
 <div align="center">
 
@@ -109,8 +109,8 @@ const MohammadAman = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:900000,100:0d1117&height=100&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"If you don't debug, you can't deploy. If you deploy, you win. Tatakae!"*
 
 </div>
