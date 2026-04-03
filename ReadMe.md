@@ -78,14 +78,11 @@ const MohammadAman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadAman5577&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAman5577&theme=github-dark-blue&hide_border=true&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&background=0d1117" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAman5577&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohammadAman5577&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" alt="Mohammad's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAman5577&theme=github-dark-blue&hide_border=true&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&background=0d1117" alt="Mohammad's GitHub Streak" />
+  <br/>
+  <br/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammadAman5577&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mohammad's Top Languages" />
 </div>
 
 ---
